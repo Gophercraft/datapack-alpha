@@ -1,0 +1,487 @@
+{
+	Race 1
+	Class 1
+	Position
+	{
+		X -8949.95
+		Y -132.493
+		Z 83.5312
+	}
+	Zone 12
+}
+{
+	Race 1
+	Class 2
+	Position
+	{
+		X -8949.95
+		Y -132.493
+		Z 83.5312
+	}
+	Zone 12
+}
+{
+	Race 1
+	Class 4
+	Position
+	{
+		X -8949.95
+		Y -132.493
+		Z 83.5312
+	}
+	Zone 12
+}
+{
+	Race 1
+	Class 5
+	Position
+	{
+		X -8949.95
+		Y -132.493
+		Z 83.5312
+	}
+	Zone 12
+}
+{
+	Race 1
+	Class 8
+	Position
+	{
+		X -8949.95
+		Y -132.493
+		Z 83.5312
+	}
+	Zone 12
+}
+{
+	Race 1
+	Class 9
+	Position
+	{
+		X -8949.95
+		Y -132.493
+		Z 83.5312
+	}
+	Zone 12
+}
+{
+	Race 2
+	Class 1
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 2
+	Class 3
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 2
+	Class 4
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 2
+	Class 7
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 2
+	Class 9
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 3
+	Class 1
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+		W 6.17716
+	}
+	Zone 1
+}
+{
+	Race 3
+	Class 2
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+		W 6.17716
+	}
+	Zone 1
+}
+{
+	Race 3
+	Class 3
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+		W 6.17716
+	}
+	Zone 1
+}
+{
+	Race 3
+	Class 4
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+		W 6.17716
+	}
+	Zone 1
+}
+{
+	Race 3
+	Class 5
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+		W 6.17716
+	}
+	Zone 1
+}
+{
+	Race 3
+	Class 8
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+		W 6.17716
+	}
+	Zone 1
+}
+{
+	Race 4
+	Class 1
+	Position
+	{
+		X 10311.3
+		Y 832.463
+		Z 1326.41
+		W 5.69632
+	}
+	Map 1
+	Zone 141
+}
+{
+	Race 4
+	Class 3
+	Position
+	{
+		X 10311.3
+		Y 832.463
+		Z 1326.41
+		W 5.69632
+	}
+	Map 1
+	Zone 141
+}
+{
+	Race 4
+	Class 4
+	Position
+	{
+		X 10311.3
+		Y 832.463
+		Z 1326.41
+		W 5.69632
+	}
+	Map 1
+	Zone 141
+}
+{
+	Race 4
+	Class 5
+	Position
+	{
+		X 10311.3
+		Y 832.463
+		Z 1326.41
+		W 5.69632
+	}
+	Map 1
+	Zone 141
+}
+{
+	Race 4
+	Class 11
+	Position
+	{
+		X 10311.3
+		Y 832.463
+		Z 1326.41
+		W 5.69632
+	}
+	Map 1
+	Zone 141
+}
+{
+	Race 5
+	Class 1
+	Position
+	{
+		X 1676.71
+		Y 1678.31
+		Z 121.67
+		W 2.70526
+	}
+	Zone 85
+}
+{
+	Race 5
+	Class 4
+	Position
+	{
+		X 1676.71
+		Y 1678.31
+		Z 121.67
+		W 2.70526
+	}
+	Zone 85
+}
+{
+	Race 5
+	Class 5
+	Position
+	{
+		X 1676.71
+		Y 1678.31
+		Z 121.67
+		W 2.70526
+	}
+	Zone 85
+}
+{
+	Race 5
+	Class 8
+	Position
+	{
+		X 1676.71
+		Y 1678.31
+		Z 121.67
+		W 2.70526
+	}
+	Zone 85
+}
+{
+	Race 5
+	Class 9
+	Position
+	{
+		X 1676.71
+		Y 1678.31
+		Z 121.67
+		W 2.70526
+	}
+	Zone 85
+}
+{
+	Race 6
+	Class 1
+	Position
+	{
+		X -2917.58
+		Y -257.98
+		Z 52.9968
+	}
+	Map 1
+	Zone 215
+}
+{
+	Race 6
+	Class 3
+	Position
+	{
+		X -2917.58
+		Y -257.98
+		Z 52.9968
+	}
+	Map 1
+	Zone 215
+}
+{
+	Race 6
+	Class 7
+	Position
+	{
+		X -2917.58
+		Y -257.98
+		Z 52.9968
+	}
+	Map 1
+	Zone 215
+}
+{
+	Race 6
+	Class 11
+	Position
+	{
+		X -2917.58
+		Y -257.98
+		Z 52.9968
+	}
+	Map 1
+	Zone 215
+}
+{
+	Race 7
+	Class 1
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+	}
+	Zone 1
+}
+{
+	Race 7
+	Class 4
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+	}
+	Zone 1
+}
+{
+	Race 7
+	Class 8
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+	}
+	Zone 1
+}
+{
+	Race 7
+	Class 9
+	Position
+	{
+		X -6240.32
+		Y 331.033
+		Z 382.758
+	}
+	Zone 1
+}
+{
+	Race 8
+	Class 1
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 8
+	Class 3
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 8
+	Class 4
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 8
+	Class 5
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 8
+	Class 7
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}
+{
+	Race 8
+	Class 8
+	Position
+	{
+		X -618.518
+		Y -4251.67
+		Z 38.718
+	}
+	Map 1
+	Zone 14
+}

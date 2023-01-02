@@ -1,0 +1,2401 @@
+// DO NOT EDIT: extracted from alpha-core database on Sun Jan 1 19:52:36 EST 2023
+// Recruit's Shirt
+{
+	Equip PaperDoll
+	Race 1
+	Class 1
+	Item it:38
+	Amount 1
+}
+// Recruit's Pants
+{
+	Equip PaperDoll
+	Race 1
+	Class 1
+	Item it:39
+	Amount 1
+}
+// Recruit's Boots
+{
+	Equip PaperDoll
+	Race 1
+	Class 1
+	Item it:40
+	Amount 1
+}
+// Worn Shortsword
+{
+	Equip PaperDoll
+	Race 1
+	Class 1
+	Item it:25
+	Amount 1
+}
+// Worn Wooden Shield
+{
+	Equip PaperDoll
+	Race 1
+	Class 1
+	Item it:2362
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 1
+	Class 1
+	Item it:117
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 1
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Recruit's Shirt
+{
+	Equip PaperDoll
+	Race 4
+	Class 1
+	Item it:6120
+	Amount 1
+}
+// Recruit's Pants
+{
+	Equip PaperDoll
+	Race 4
+	Class 1
+	Item it:6121
+	Amount 1
+}
+// Recruit's Boots
+{
+	Equip PaperDoll
+	Race 4
+	Class 1
+	Item it:6122
+	Amount 1
+}
+// Worn Shortsword
+{
+	Equip PaperDoll
+	Race 4
+	Class 1
+	Item it:25
+	Amount 1
+}
+// Worn Wooden Shield
+{
+	Equip PaperDoll
+	Race 4
+	Class 1
+	Item it:2362
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 4
+	Class 1
+	Item it:117
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 4
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Recruit's Shirt
+{
+	Equip PaperDoll
+	Race 3
+	Class 1
+	Item it:38
+	Amount 1
+}
+// Recruit's Pants
+{
+	Equip PaperDoll
+	Race 3
+	Class 1
+	Item it:39
+	Amount 1
+}
+// Recruit's Boots
+{
+	Equip PaperDoll
+	Race 3
+	Class 1
+	Item it:40
+	Amount 1
+}
+// Worn Battleaxe
+{
+	Equip PaperDoll
+	Race 3
+	Class 1
+	Item it:12282
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 3
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 3
+	Class 1
+	Item it:117
+	Amount 5
+}
+// Recruit's Shirt
+{
+	Equip PaperDoll
+	Race 7
+	Class 1
+	Item it:38
+	Amount 1
+}
+// Recruit's Pants
+{
+	Equip PaperDoll
+	Race 7
+	Class 1
+	Item it:39
+	Amount 1
+}
+// Recruit's Boots
+{
+	Equip PaperDoll
+	Race 7
+	Class 1
+	Item it:40
+	Amount 1
+}
+// Worn Shortsword
+{
+	Equip PaperDoll
+	Race 7
+	Class 1
+	Item it:25
+	Amount 1
+}
+// Worn Wooden Shield
+{
+	Equip PaperDoll
+	Race 7
+	Class 1
+	Item it:2362
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 7
+	Class 1
+	Item it:117
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 7
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Brawler's Harness
+{
+	Equip PaperDoll
+	Race 5
+	Class 1
+	Item it:6125
+	Amount 1
+}
+// Brawler's Pants
+{
+	Equip PaperDoll
+	Race 5
+	Class 1
+	Item it:139
+	Amount 1
+}
+// Brawler's Boots
+{
+	Equip PaperDoll
+	Race 5
+	Class 1
+	Item it:140
+	Amount 1
+}
+// Worn Shortsword
+{
+	Equip PaperDoll
+	Race 5
+	Class 1
+	Item it:25
+	Amount 1
+}
+// Worn Wooden Shield
+{
+	Equip PaperDoll
+	Race 5
+	Class 1
+	Item it:2362
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 5
+	Class 1
+	Item it:4604
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 5
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Brawler's Harness
+{
+	Equip PaperDoll
+	Race 2
+	Class 1
+	Item it:6125
+	Amount 1
+}
+// Brawler's Pants
+{
+	Equip PaperDoll
+	Race 2
+	Class 1
+	Item it:139
+	Amount 1
+}
+// Brawler's Boots
+{
+	Equip PaperDoll
+	Race 2
+	Class 1
+	Item it:140
+	Amount 1
+}
+// Worn Battleaxe
+{
+	Equip PaperDoll
+	Race 2
+	Class 1
+	Item it:12282
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 2
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 2
+	Class 1
+	Item it:117
+	Amount 5
+}
+// Brawler's Harness
+{
+	Equip PaperDoll
+	Race 8
+	Class 1
+	Item it:6125
+	Amount 1
+}
+// Brawler's Pants
+{
+	Equip PaperDoll
+	Race 8
+	Class 1
+	Item it:139
+	Amount 1
+}
+// Worn Axe
+{
+	Equip PaperDoll
+	Race 8
+	Class 1
+	Item it:37
+	Amount 1
+}
+// Worn Wooden Shield
+{
+	Equip PaperDoll
+	Race 8
+	Class 1
+	Item it:2362
+	Amount 1
+}
+// Crude Throwing Axe
+{
+	Equip PaperDoll
+	Race 8
+	Class 1
+	Item it:3111
+	Amount 100
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 8
+	Class 1
+	Item it:117
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 8
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Brawler's Harness
+{
+	Equip PaperDoll
+	Race 6
+	Class 1
+	Item it:6125
+	Amount 1
+}
+// Brawler's Pants
+{
+	Equip PaperDoll
+	Race 6
+	Class 1
+	Item it:139
+	Amount 1
+}
+// Battleworn Hammer
+{
+	Equip PaperDoll
+	Race 6
+	Class 1
+	Item it:2361
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 6
+	Class 1
+	Item it:6948
+	Amount 1
+}
+// Tough Hunk of Bread
+{
+	Equip Inventory
+	Race 6
+	Class 1
+	Item it:4540
+	Amount 5
+}
+// Squire's Shirt
+{
+	Equip PaperDoll
+	Race 1
+	Class 2
+	Item it:45
+	Amount 1
+}
+// Squire's Pants
+{
+	Equip PaperDoll
+	Race 1
+	Class 2
+	Item it:44
+	Amount 1
+}
+// Squire's Boots
+{
+	Equip PaperDoll
+	Race 1
+	Class 2
+	Item it:43
+	Amount 1
+}
+// Battleworn Hammer
+{
+	Equip PaperDoll
+	Race 1
+	Class 2
+	Item it:2361
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 1
+	Class 2
+	Item it:6948
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 1
+	Class 2
+	Item it:159
+	Amount 5
+}
+// Darnassian Bleu
+{
+	Equip Inventory
+	Race 1
+	Class 2
+	Item it:2070
+	Amount 5
+}
+// Squire's Shirt
+{
+	Equip PaperDoll
+	Race 3
+	Class 2
+	Item it:6117
+	Amount 1
+}
+// Squire's Pants
+{
+	Equip PaperDoll
+	Race 3
+	Class 2
+	Item it:6118
+	Amount 1
+}
+// Squire's Boots
+{
+	Equip PaperDoll
+	Race 3
+	Class 2
+	Item it:43
+	Amount 1
+}
+// Battleworn Hammer
+{
+	Equip PaperDoll
+	Race 3
+	Class 2
+	Item it:2361
+	Amount 1
+}
+// Tough Hunk of Bread
+{
+	Equip Inventory
+	Race 3
+	Class 2
+	Item it:4540
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 3
+	Class 2
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 3
+	Class 2
+	Item it:6948
+	Amount 1
+}
+// Rugged Trapper's Shirt
+{
+	Equip PaperDoll
+	Race 4
+	Class 3
+	Item it:148
+	Amount 1
+}
+// Rugged Trapper's Pants
+{
+	Equip PaperDoll
+	Race 4
+	Class 3
+	Item it:147
+	Amount 1
+}
+// Rugged Trapper's Boots
+{
+	Equip PaperDoll
+	Race 4
+	Class 3
+	Item it:129
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 4
+	Class 3
+	Item it:2092
+	Amount 1
+}
+// Worn Shortbow
+{
+	Equip PaperDoll
+	Race 4
+	Class 3
+	Item it:2504
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 4
+	Class 3
+	Item it:159
+	Amount 5
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 4
+	Class 3
+	Item it:117
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 4
+	Class 3
+	Item it:6948
+	Amount 1
+}
+// Rough Arrow
+{
+	Equip PaperDoll
+	Race 4
+	Class 3
+	Item it:2512
+	Amount 200
+}
+// Light Quiver
+{
+	Equip Container
+	Race 4
+	Class 3
+	Item it:2101
+	Amount 1
+}
+// Rugged Trapper's Shirt
+{
+	Equip PaperDoll
+	Race 3
+	Class 3
+	Item it:148
+	Amount 1
+}
+// Rugged Trapper's Pants
+{
+	Equip PaperDoll
+	Race 3
+	Class 3
+	Item it:147
+	Amount 1
+}
+// Rugged Trapper's Boots
+{
+	Equip PaperDoll
+	Race 3
+	Class 3
+	Item it:129
+	Amount 1
+}
+// Worn Axe
+{
+	Equip PaperDoll
+	Race 3
+	Class 3
+	Item it:37
+	Amount 1
+}
+// Old Blunderbuss
+{
+	Equip PaperDoll
+	Race 3
+	Class 3
+	Item it:2508
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 3
+	Class 3
+	Item it:159
+	Amount 2
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 3
+	Class 3
+	Item it:117
+	Amount 4
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 3
+	Class 3
+	Item it:6948
+	Amount 1
+}
+// Light Shot
+{
+	Equip PaperDoll
+	Race 3
+	Class 3
+	Item it:2516
+	Amount 200
+}
+// Small Ammo Pouch
+{
+	Equip Container
+	Race 3
+	Class 3
+	Item it:2102
+	Amount 1
+}
+// Trapper's Shirt
+{
+	Equip PaperDoll
+	Race 2
+	Class 3
+	Item it:127
+	Amount 1
+}
+// Trapper's Pants
+{
+	Equip PaperDoll
+	Race 2
+	Class 3
+	Item it:6126
+	Amount 1
+}
+// Trapper's Boots
+{
+	Equip PaperDoll
+	Race 2
+	Class 3
+	Item it:6127
+	Amount 1
+}
+// Worn Axe
+{
+	Equip PaperDoll
+	Race 2
+	Class 3
+	Item it:37
+	Amount 1
+}
+// Worn Shortbow
+{
+	Equip PaperDoll
+	Race 2
+	Class 3
+	Item it:2504
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 2
+	Class 3
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 2
+	Class 3
+	Item it:6948
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 2
+	Class 3
+	Item it:117
+	Amount 5
+}
+// Rough Arrow
+{
+	Equip PaperDoll
+	Race 2
+	Class 3
+	Item it:2512
+	Amount 200
+}
+// Light Quiver
+{
+	Equip Container
+	Race 2
+	Class 3
+	Item it:2101
+	Amount 1
+}
+// Trapper's Shirt
+{
+	Equip PaperDoll
+	Race 8
+	Class 3
+	Item it:127
+	Amount 1
+}
+// Trapper's Pants
+{
+	Equip PaperDoll
+	Race 8
+	Class 3
+	Item it:6126
+	Amount 1
+}
+// Worn Axe
+{
+	Equip PaperDoll
+	Race 8
+	Class 3
+	Item it:37
+	Amount 1
+}
+// Worn Shortbow
+{
+	Equip PaperDoll
+	Race 8
+	Class 3
+	Item it:2504
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 8
+	Class 3
+	Item it:4604
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 8
+	Class 3
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 8
+	Class 3
+	Item it:6948
+	Amount 1
+}
+// Rough Arrow
+{
+	Equip PaperDoll
+	Race 8
+	Class 3
+	Item it:2512
+	Amount 200
+}
+// Light Quiver
+{
+	Equip Container
+	Race 8
+	Class 3
+	Item it:2101
+	Amount 1
+}
+// Trapper's Shirt
+{
+	Equip PaperDoll
+	Race 6
+	Class 3
+	Item it:127
+	Amount 1
+}
+// Trapper's Pants
+{
+	Equip PaperDoll
+	Race 6
+	Class 3
+	Item it:6126
+	Amount 1
+}
+// Worn Axe
+{
+	Equip PaperDoll
+	Race 6
+	Class 3
+	Item it:37
+	Amount 1
+}
+// Old Blunderbuss
+{
+	Equip PaperDoll
+	Race 6
+	Class 3
+	Item it:2508
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 6
+	Class 3
+	Item it:6948
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 6
+	Class 3
+	Item it:159
+	Amount 5
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 6
+	Class 3
+	Item it:117
+	Amount 5
+}
+// Light Shot
+{
+	Equip PaperDoll
+	Race 6
+	Class 3
+	Item it:2516
+	Amount 200
+}
+// Small Ammo Pouch
+{
+	Equip Container
+	Race 6
+	Class 3
+	Item it:2102
+	Amount 1
+}
+// Footpad's Shirt
+{
+	Equip PaperDoll
+	Race 1
+	Class 4
+	Item it:49
+	Amount 1
+}
+// Footpad's Pants
+{
+	Equip PaperDoll
+	Race 1
+	Class 4
+	Item it:48
+	Amount 1
+}
+// Footpad's Shoes
+{
+	Equip PaperDoll
+	Race 1
+	Class 4
+	Item it:47
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 1
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Small Throwing Knife
+{
+	Equip PaperDoll
+	Race 1
+	Class 4
+	Item it:2947
+	Amount 100
+}
+// Darnassian Bleu
+{
+	Equip Inventory
+	Race 1
+	Class 4
+	Item it:2070
+	Amount 4
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 1
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Footpad's Shirt
+{
+	Equip PaperDoll
+	Race 4
+	Class 4
+	Item it:49
+	Amount 1
+}
+// Footpad's Pants
+{
+	Equip PaperDoll
+	Race 4
+	Class 4
+	Item it:48
+	Amount 1
+}
+// Footpad's Shoes
+{
+	Equip PaperDoll
+	Race 4
+	Class 4
+	Item it:47
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 4
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Small Throwing Knife
+{
+	Equip PaperDoll
+	Race 4
+	Class 4
+	Item it:2947
+	Amount 100
+}
+// Tough Hunk of Bread
+{
+	Equip Inventory
+	Race 4
+	Class 4
+	Item it:4540
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 4
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Footpad's Shirt
+{
+	Equip PaperDoll
+	Race 3
+	Class 4
+	Item it:49
+	Amount 1
+}
+// Footpad's Pants
+{
+	Equip PaperDoll
+	Race 3
+	Class 4
+	Item it:48
+	Amount 1
+}
+// Footpad's Shoes
+{
+	Equip PaperDoll
+	Race 3
+	Class 4
+	Item it:47
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 3
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Crude Throwing Axe
+{
+	Equip PaperDoll
+	Race 3
+	Class 4
+	Item it:3111
+	Amount 100
+}
+// Tough Hunk of Bread
+{
+	Equip Inventory
+	Race 3
+	Class 4
+	Item it:4540
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 3
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Footpad's Shirt
+{
+	Equip PaperDoll
+	Race 7
+	Class 4
+	Item it:49
+	Amount 1
+}
+// Footpad's Pants
+{
+	Equip PaperDoll
+	Race 7
+	Class 4
+	Item it:48
+	Amount 1
+}
+// Footpad's Shoes
+{
+	Equip PaperDoll
+	Race 7
+	Class 4
+	Item it:47
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 7
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Small Throwing Knife
+{
+	Equip PaperDoll
+	Race 7
+	Class 4
+	Item it:2947
+	Amount 100
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 7
+	Class 4
+	Item it:117
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 7
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Thug's Shirt
+{
+	Equip PaperDoll
+	Race 5
+	Class 4
+	Item it:2105
+	Amount 1
+}
+// Thug Pants
+{
+	Equip PaperDoll
+	Race 5
+	Class 4
+	Item it:120
+	Amount 1
+}
+// Thug Boots
+{
+	Equip PaperDoll
+	Race 5
+	Class 4
+	Item it:121
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 5
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Small Throwing Knife
+{
+	Equip PaperDoll
+	Race 5
+	Class 4
+	Item it:2947
+	Amount 100
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 5
+	Class 4
+	Item it:4604
+	Amount 10
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 5
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Thug's Shirt
+{
+	Equip PaperDoll
+	Race 2
+	Class 4
+	Item it:6136
+	Amount 1
+}
+// Thug Pants
+{
+	Equip PaperDoll
+	Race 2
+	Class 4
+	Item it:6137
+	Amount 1
+}
+// Thug Boots
+{
+	Equip PaperDoll
+	Race 2
+	Class 4
+	Item it:6138
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 2
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Crude Throwing Axe
+{
+	Equip PaperDoll
+	Race 2
+	Class 4
+	Item it:3111
+	Amount 100
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 2
+	Class 4
+	Item it:117
+	Amount 10
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 2
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Thug's Shirt
+{
+	Equip PaperDoll
+	Race 8
+	Class 4
+	Item it:2105
+	Amount 1
+}
+// Thug Pants
+{
+	Equip PaperDoll
+	Race 8
+	Class 4
+	Item it:120
+	Amount 1
+}
+// Thug Boots
+{
+	Equip PaperDoll
+	Race 8
+	Class 4
+	Item it:121
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 8
+	Class 4
+	Item it:2092
+	Amount 1
+}
+// Crude Throwing Axe
+{
+	Equip PaperDoll
+	Race 8
+	Class 4
+	Item it:3111
+	Amount 100
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 8
+	Class 4
+	Item it:117
+	Amount 10
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 8
+	Class 4
+	Item it:6948
+	Amount 1
+}
+// Novice's Robe
+{
+	Equip PaperDoll
+	Race 4
+	Class 11
+	Item it:6123
+	Amount 1
+}
+// Novice's Pants
+{
+	Equip PaperDoll
+	Race 4
+	Class 11
+	Item it:6124
+	Amount 1
+}
+// Handcrafted Staff
+{
+	Equip PaperDoll
+	Race 4
+	Class 11
+	Item it:3661
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 4
+	Class 11
+	Item it:159
+	Amount 5
+}
+// Shiny Red Apple
+{
+	Equip Inventory
+	Race 4
+	Class 11
+	Item it:4536
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 4
+	Class 11
+	Item it:6948
+	Amount 1
+}
+// Novice's Robe
+{
+	Equip PaperDoll
+	Race 6
+	Class 11
+	Item it:6139
+	Amount 1
+}
+// Novice's Pants
+{
+	Equip PaperDoll
+	Race 6
+	Class 11
+	Item it:6124
+	Amount 1
+}
+// Bent Staff
+{
+	Equip PaperDoll
+	Race 6
+	Class 11
+	Item it:35
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 6
+	Class 11
+	Item it:159
+	Amount 5
+}
+// Shiny Red Apple
+{
+	Equip Inventory
+	Race 6
+	Class 11
+	Item it:4536
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 6
+	Class 11
+	Item it:6948
+	Amount 1
+}
+// Primitive Mantle
+{
+	Equip PaperDoll
+	Race 2
+	Class 7
+	Item it:154
+	Amount 1
+}
+// Primitive Kilt
+{
+	Equip PaperDoll
+	Race 2
+	Class 7
+	Item it:153
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 2
+	Class 7
+	Item it:36
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 2
+	Class 7
+	Item it:6948
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 2
+	Class 7
+	Item it:117
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 2
+	Class 7
+	Item it:159
+	Amount 5
+}
+// Primitive Mantle
+{
+	Equip PaperDoll
+	Race 8
+	Class 7
+	Item it:6134
+	Amount 1
+}
+// Primitive Kilt
+{
+	Equip PaperDoll
+	Race 8
+	Class 7
+	Item it:6135
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 8
+	Class 7
+	Item it:36
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 8
+	Class 7
+	Item it:117
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 8
+	Class 7
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 8
+	Class 7
+	Item it:6948
+	Amount 1
+}
+// Primitive Mantle
+{
+	Equip PaperDoll
+	Race 6
+	Class 7
+	Item it:154
+	Amount 1
+}
+// Primitive Kilt
+{
+	Equip PaperDoll
+	Race 6
+	Class 7
+	Item it:153
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 6
+	Class 7
+	Item it:36
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 6
+	Class 7
+	Item it:6948
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 6
+	Class 7
+	Item it:4604
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 6
+	Class 7
+	Item it:159
+	Amount 5
+}
+// Neophyte's Shirt
+{
+	Equip PaperDoll
+	Race 1
+	Class 5
+	Item it:53
+	Amount 1
+}
+// Neophyte's Robe
+{
+	Equip PaperDoll
+	Race 1
+	Class 5
+	Item it:6098
+	Amount 1
+}
+// Neophyte's Pants
+{
+	Equip PaperDoll
+	Race 1
+	Class 5
+	Item it:52
+	Amount 1
+}
+// Neophyte's Boots
+{
+	Equip PaperDoll
+	Race 1
+	Class 5
+	Item it:51
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 1
+	Class 5
+	Item it:36
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 1
+	Class 5
+	Item it:159
+	Amount 5
+}
+// Darnassian Bleu
+{
+	Equip Inventory
+	Race 1
+	Class 5
+	Item it:2070
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 1
+	Class 5
+	Item it:6948
+	Amount 1
+}
+// Neophyte's Shirt
+{
+	Equip PaperDoll
+	Race 4
+	Class 5
+	Item it:53
+	Amount 1
+}
+// Neophyte's Robe
+{
+	Equip PaperDoll
+	Race 4
+	Class 5
+	Item it:6119
+	Amount 1
+}
+// Neophyte's Pants
+{
+	Equip PaperDoll
+	Race 4
+	Class 5
+	Item it:52
+	Amount 1
+}
+// Neophyte's Boots
+{
+	Equip PaperDoll
+	Race 4
+	Class 5
+	Item it:51
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 4
+	Class 5
+	Item it:36
+	Amount 1
+}
+// Darnassian Bleu
+{
+	Equip Inventory
+	Race 4
+	Class 5
+	Item it:2070
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 4
+	Class 5
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 4
+	Class 5
+	Item it:6948
+	Amount 1
+}
+// Neophyte's Shirt
+{
+	Equip PaperDoll
+	Race 3
+	Class 5
+	Item it:53
+	Amount 1
+}
+// Neophyte's Robe
+{
+	Equip PaperDoll
+	Race 3
+	Class 5
+	Item it:6098
+	Amount 1
+}
+// Neophyte's Pants
+{
+	Equip PaperDoll
+	Race 3
+	Class 5
+	Item it:52
+	Amount 1
+}
+// Neophyte's Boots
+{
+	Equip PaperDoll
+	Race 3
+	Class 5
+	Item it:51
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 3
+	Class 5
+	Item it:36
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 3
+	Class 5
+	Item it:159
+	Amount 5
+}
+// Tough Hunk of Bread
+{
+	Equip Inventory
+	Race 3
+	Class 5
+	Item it:4540
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 3
+	Class 5
+	Item it:6948
+	Amount 1
+}
+// Neophyte's Shirt
+{
+	Equip PaperDoll
+	Race 5
+	Class 5
+	Item it:53
+	Amount 1
+}
+// Neophyte's Robe
+{
+	Equip PaperDoll
+	Race 5
+	Class 5
+	Item it:6144
+	Amount 1
+}
+// Neophyte's Pants
+{
+	Equip PaperDoll
+	Race 5
+	Class 5
+	Item it:52
+	Amount 1
+}
+// Neophyte's Boots
+{
+	Equip PaperDoll
+	Race 5
+	Class 5
+	Item it:51
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 5
+	Class 5
+	Item it:36
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 5
+	Class 5
+	Item it:4604
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 5
+	Class 5
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 5
+	Class 5
+	Item it:6948
+	Amount 1
+}
+// Neophyte's Shirt
+{
+	Equip PaperDoll
+	Race 8
+	Class 5
+	Item it:53
+	Amount 1
+}
+// Neophyte's Robe
+{
+	Equip PaperDoll
+	Race 8
+	Class 5
+	Item it:6144
+	Amount 1
+}
+// Neophyte's Pants
+{
+	Equip PaperDoll
+	Race 8
+	Class 5
+	Item it:52
+	Amount 1
+}
+// Worn Mace
+{
+	Equip PaperDoll
+	Race 8
+	Class 5
+	Item it:36
+	Amount 1
+}
+// Tough Hunk of Bread
+{
+	Equip Inventory
+	Race 8
+	Class 5
+	Item it:4540
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 8
+	Class 5
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 8
+	Class 5
+	Item it:6948
+	Amount 1
+}
+// Apprentice's Shirt
+{
+	Equip PaperDoll
+	Race 1
+	Class 8
+	Item it:6096
+	Amount 1
+}
+// Apprentice's Robe
+{
+	Equip PaperDoll
+	Race 1
+	Class 8
+	Item it:56
+	Amount 1
+}
+// Apprentice's Pants
+{
+	Equip PaperDoll
+	Race 1
+	Class 8
+	Item it:1395
+	Amount 1
+}
+// Apprentice's Boots
+{
+	Equip PaperDoll
+	Race 1
+	Class 8
+	Item it:55
+	Amount 1
+}
+// Bent Staff
+{
+	Equip PaperDoll
+	Race 1
+	Class 8
+	Item it:35
+	Amount 1
+}
+// Darnassian Bleu
+{
+	Equip Inventory
+	Race 1
+	Class 8
+	Item it:2070
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 1
+	Class 8
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 1
+	Class 8
+	Item it:6948
+	Amount 1
+}
+// Apprentice's Shirt
+{
+	Equip PaperDoll
+	Race 7
+	Class 8
+	Item it:6096
+	Amount 1
+}
+// Apprentice's Robe
+{
+	Equip PaperDoll
+	Race 7
+	Class 8
+	Item it:56
+	Amount 1
+}
+// Apprentice's Pants
+{
+	Equip PaperDoll
+	Race 7
+	Class 8
+	Item it:1395
+	Amount 1
+}
+// Apprentice's Boots
+{
+	Equip PaperDoll
+	Race 7
+	Class 8
+	Item it:55
+	Amount 1
+}
+// Bent Staff
+{
+	Equip PaperDoll
+	Race 7
+	Class 8
+	Item it:35
+	Amount 1
+}
+// Shiny Red Apple
+{
+	Equip Inventory
+	Race 7
+	Class 8
+	Item it:4536
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 7
+	Class 8
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 7
+	Class 8
+	Item it:6948
+	Amount 1
+}
+// Apprentice's Shirt
+{
+	Equip PaperDoll
+	Race 5
+	Class 8
+	Item it:6096
+	Amount 1
+}
+// Apprentice's Robe
+{
+	Equip PaperDoll
+	Race 5
+	Class 8
+	Item it:6140
+	Amount 1
+}
+// Apprentice's Pants
+{
+	Equip PaperDoll
+	Race 5
+	Class 8
+	Item it:1395
+	Amount 1
+}
+// Apprentice's Boots
+{
+	Equip PaperDoll
+	Race 5
+	Class 8
+	Item it:55
+	Amount 1
+}
+// Bent Staff
+{
+	Equip PaperDoll
+	Race 5
+	Class 8
+	Item it:35
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 5
+	Class 8
+	Item it:4604
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 5
+	Class 8
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 5
+	Class 8
+	Item it:6948
+	Amount 1
+}
+// Apprentice's Shirt
+{
+	Equip PaperDoll
+	Race 8
+	Class 8
+	Item it:6096
+	Amount 1
+}
+// Apprentice's Robe
+{
+	Equip PaperDoll
+	Race 8
+	Class 8
+	Item it:6140
+	Amount 1
+}
+// Apprentice's Pants
+{
+	Equip PaperDoll
+	Race 8
+	Class 8
+	Item it:1395
+	Amount 1
+}
+// Apprentice's Boots
+{
+	Equip PaperDoll
+	Race 8
+	Class 8
+	Item it:55
+	Amount 1
+}
+// Bent Staff
+{
+	Equip PaperDoll
+	Race 8
+	Class 8
+	Item it:35
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 8
+	Class 8
+	Item it:117
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 8
+	Class 8
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 8
+	Class 8
+	Item it:6948
+	Amount 1
+}
+// Acolyte's Shirt
+{
+	Equip PaperDoll
+	Race 1
+	Class 9
+	Item it:6097
+	Amount 1
+}
+// Acolyte's Robe
+{
+	Equip PaperDoll
+	Race 1
+	Class 9
+	Item it:57
+	Amount 1
+}
+// Acolyte's Pants
+{
+	Equip PaperDoll
+	Race 1
+	Class 9
+	Item it:1396
+	Amount 1
+}
+// Acolyte's Shoes
+{
+	Equip PaperDoll
+	Race 1
+	Class 9
+	Item it:59
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 1
+	Class 9
+	Item it:2092
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 1
+	Class 9
+	Item it:4604
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 1
+	Class 9
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 1
+	Class 9
+	Item it:6948
+	Amount 1
+}
+// Acolyte's Shirt
+{
+	Equip PaperDoll
+	Race 7
+	Class 9
+	Item it:6097
+	Amount 1
+}
+// Acolyte's Robe
+{
+	Equip PaperDoll
+	Race 7
+	Class 9
+	Item it:57
+	Amount 1
+}
+// Acolyte's Pants
+{
+	Equip PaperDoll
+	Race 7
+	Class 9
+	Item it:1396
+	Amount 1
+}
+// Acolyte's Shoes
+{
+	Equip PaperDoll
+	Race 7
+	Class 9
+	Item it:59
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 7
+	Class 9
+	Item it:2092
+	Amount 1
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 7
+	Class 9
+	Item it:159
+	Amount 5
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 7
+	Class 9
+	Item it:4604
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 7
+	Class 9
+	Item it:6948
+	Amount 1
+}
+// Acolyte's Robe
+{
+	Equip PaperDoll
+	Race 5
+	Class 9
+	Item it:6129
+	Amount 1
+}
+// Acolyte's Pants
+{
+	Equip PaperDoll
+	Race 5
+	Class 9
+	Item it:1396
+	Amount 1
+}
+// Acolyte's Shoes
+{
+	Equip PaperDoll
+	Race 5
+	Class 9
+	Item it:59
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 5
+	Class 9
+	Item it:2092
+	Amount 1
+}
+// Forest Mushroom Cap
+{
+	Equip Inventory
+	Race 5
+	Class 9
+	Item it:4604
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 5
+	Class 9
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 5
+	Class 9
+	Item it:6948
+	Amount 1
+}
+// Acolyte's Robe
+{
+	Equip PaperDoll
+	Race 2
+	Class 9
+	Item it:6129
+	Amount 1
+}
+// Acolyte's Pants
+{
+	Equip PaperDoll
+	Race 2
+	Class 9
+	Item it:1396
+	Amount 1
+}
+// Acolyte's Shoes
+{
+	Equip PaperDoll
+	Race 2
+	Class 9
+	Item it:59
+	Amount 1
+}
+// Worn Dagger
+{
+	Equip PaperDoll
+	Race 2
+	Class 9
+	Item it:2092
+	Amount 1
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 2
+	Class 9
+	Item it:6948
+	Amount 1
+}
+// Tough Jerky
+{
+	Equip Inventory
+	Race 2
+	Class 9
+	Item it:117
+	Amount 5
+}
+// Refreshing Spring Water
+{
+	Equip Inventory
+	Race 2
+	Class 9
+	Item it:159
+	Amount 5
+}
+// Hearthstone
+{
+	Equip Inventory
+	Race 3
+	Class 8
+	Item it:6948
+	Amount 1
+}
+// Apprentice's Shirt
+{
+	Equip PaperDoll
+	Race 3
+	Class 8
+	Item it:6096
+	Amount 1
+}
+// Apprentice's Robe
+{
+	Equip PaperDoll
+	Race 3
+	Class 8
+	Item it:6116
+	Amount 1
+}
+// Apprentice's Boots
+{
+	Equip PaperDoll
+	Race 3
+	Class 8
+	Item it:55
+	Amount 1
+}
+// Apprentice's Pants
+{
+	Equip PaperDoll
+	Race 3
+	Class 8
+	Item it:1395
+	Amount 1
+}
+// Bent Staff
+{
+	Equip PaperDoll
+	Race 3
+	Class 8
+	Item it:35
+	Amount 1
+}

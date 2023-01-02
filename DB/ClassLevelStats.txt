@@ -1,0 +1,4861 @@
+// DO NOT EDIT: extracted from alpha-core database on Sun Jan 1 19:52:36 EST 2023
+{
+	Class 1
+	Level 1
+	BaseStats
+	{
+		BaseHealth 20
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 2
+	BaseStats
+	{
+		BaseHealth 29
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 3
+	BaseStats
+	{
+		BaseHealth 38
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 4
+	BaseStats
+	{
+		BaseHealth 47
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 5
+	BaseStats
+	{
+		BaseHealth 56
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 6
+	BaseStats
+	{
+		BaseHealth 65
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 7
+	BaseStats
+	{
+		BaseHealth 74
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 8
+	BaseStats
+	{
+		BaseHealth 83
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 9
+	BaseStats
+	{
+		BaseHealth 92
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 10
+	BaseStats
+	{
+		BaseHealth 101
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 11
+	BaseStats
+	{
+		BaseHealth 100
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 12
+	BaseStats
+	{
+		BaseHealth 109
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 13
+	BaseStats
+	{
+		BaseHealth 118
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 14
+	BaseStats
+	{
+		BaseHealth 128
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 15
+	BaseStats
+	{
+		BaseHealth 139
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 16
+	BaseStats
+	{
+		BaseHealth 151
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 17
+	BaseStats
+	{
+		BaseHealth 154
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 18
+	BaseStats
+	{
+		BaseHealth 168
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 19
+	BaseStats
+	{
+		BaseHealth 168
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 20
+	BaseStats
+	{
+		BaseHealth 199
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 21
+	BaseStats
+	{
+		BaseHealth 206
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 22
+	BaseStats
+	{
+		BaseHealth 224
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 23
+	BaseStats
+	{
+		BaseHealth 243
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 24
+	BaseStats
+	{
+		BaseHealth 253
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 25
+	BaseStats
+	{
+		BaseHealth 274
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 26
+	BaseStats
+	{
+		BaseHealth 296
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 27
+	BaseStats
+	{
+		BaseHealth 309
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 28
+	BaseStats
+	{
+		BaseHealth 333
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 29
+	BaseStats
+	{
+		BaseHealth 348
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 30
+	BaseStats
+	{
+		BaseHealth 374
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 31
+	BaseStats
+	{
+		BaseHealth 401
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 32
+	BaseStats
+	{
+		BaseHealth 419
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 33
+	BaseStats
+	{
+		BaseHealth 448
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 34
+	BaseStats
+	{
+		BaseHealth 468
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 35
+	BaseStats
+	{
+		BaseHealth 499
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 36
+	BaseStats
+	{
+		BaseHealth 521
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 37
+	BaseStats
+	{
+		BaseHealth 545
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 38
+	BaseStats
+	{
+		BaseHealth 581
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 39
+	BaseStats
+	{
+		BaseHealth 609
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 40
+	BaseStats
+	{
+		BaseHealth 649
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 41
+	BaseStats
+	{
+		BaseHealth 681
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 42
+	BaseStats
+	{
+		BaseHealth 715
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 43
+	BaseStats
+	{
+		BaseHealth 761
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 44
+	BaseStats
+	{
+		BaseHealth 799
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 45
+	BaseStats
+	{
+		BaseHealth 839
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 46
+	BaseStats
+	{
+		BaseHealth 881
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 47
+	BaseStats
+	{
+		BaseHealth 935
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 48
+	BaseStats
+	{
+		BaseHealth 981
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 49
+	BaseStats
+	{
+		BaseHealth 1029
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 50
+	BaseStats
+	{
+		BaseHealth 1079
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 51
+	BaseStats
+	{
+		BaseHealth 1131
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1185
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1241
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1299
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1359
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1421
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1485
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1551
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1619
+		BaseMana 0
+	}
+}
+{
+	Class 1
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1689
+		BaseMana 0
+	}
+}
+{
+	Class 2
+	Level 1
+	BaseStats
+	{
+		BaseHealth 28
+		BaseMana 59
+	}
+}
+{
+	Class 2
+	Level 2
+	BaseStats
+	{
+		BaseHealth 26
+		BaseMana 64
+	}
+}
+{
+	Class 2
+	Level 3
+	BaseStats
+	{
+		BaseHealth 34
+		BaseMana 84
+	}
+}
+{
+	Class 2
+	Level 4
+	BaseStats
+	{
+		BaseHealth 42
+		BaseMana 90
+	}
+}
+{
+	Class 2
+	Level 5
+	BaseStats
+	{
+		BaseHealth 50
+		BaseMana 112
+	}
+}
+{
+	Class 2
+	Level 6
+	BaseStats
+	{
+		BaseHealth 58
+		BaseMana 120
+	}
+}
+{
+	Class 2
+	Level 7
+	BaseStats
+	{
+		BaseHealth 66
+		BaseMana 129
+	}
+}
+{
+	Class 2
+	Level 8
+	BaseStats
+	{
+		BaseHealth 84
+		BaseMana 154
+	}
+}
+{
+	Class 2
+	Level 9
+	BaseStats
+	{
+		BaseHealth 92
+		BaseMana 165
+	}
+}
+{
+	Class 2
+	Level 10
+	BaseStats
+	{
+		BaseHealth 100
+		BaseMana 192
+	}
+}
+{
+	Class 2
+	Level 11
+	BaseStats
+	{
+		BaseHealth 108
+		BaseMana 205
+	}
+}
+{
+	Class 2
+	Level 12
+	BaseStats
+	{
+		BaseHealth 116
+		BaseMana 219
+	}
+}
+{
+	Class 2
+	Level 13
+	BaseStats
+	{
+		BaseHealth 124
+		BaseMana 249
+	}
+}
+{
+	Class 2
+	Level 14
+	BaseStats
+	{
+		BaseHealth 132
+		BaseMana 265
+	}
+}
+{
+	Class 2
+	Level 15
+	BaseStats
+	{
+		BaseHealth 131
+		BaseMana 282
+	}
+}
+{
+	Class 2
+	Level 16
+	BaseStats
+	{
+		BaseHealth 141
+		BaseMana 315
+	}
+}
+{
+	Class 2
+	Level 17
+	BaseStats
+	{
+		BaseHealth 152
+		BaseMana 334
+	}
+}
+{
+	Class 2
+	Level 18
+	BaseStats
+	{
+		BaseHealth 164
+		BaseMana 354
+	}
+}
+{
+	Class 2
+	Level 19
+	BaseStats
+	{
+		BaseHealth 177
+		BaseMana 390
+	}
+}
+{
+	Class 2
+	Level 20
+	BaseStats
+	{
+		BaseHealth 191
+		BaseMana 412
+	}
+}
+{
+	Class 2
+	Level 21
+	BaseStats
+	{
+		BaseHealth 206
+		BaseMana 435
+	}
+}
+{
+	Class 2
+	Level 22
+	BaseStats
+	{
+		BaseHealth 222
+		BaseMana 459
+	}
+}
+{
+	Class 2
+	Level 23
+	BaseStats
+	{
+		BaseHealth 239
+		BaseMana 499
+	}
+}
+{
+	Class 2
+	Level 24
+	BaseStats
+	{
+		BaseHealth 247
+		BaseMana 525
+	}
+}
+{
+	Class 2
+	Level 25
+	BaseStats
+	{
+		BaseHealth 266
+		BaseMana 552
+	}
+}
+{
+	Class 2
+	Level 26
+	BaseStats
+	{
+		BaseHealth 286
+		BaseMana 579
+	}
+}
+{
+	Class 2
+	Level 27
+	BaseStats
+	{
+		BaseHealth 307
+		BaseMana 621
+	}
+}
+{
+	Class 2
+	Level 28
+	BaseStats
+	{
+		BaseHealth 329
+		BaseMana 648
+	}
+}
+{
+	Class 2
+	Level 29
+	BaseStats
+	{
+		BaseHealth 342
+		BaseMana 675
+	}
+}
+{
+	Class 2
+	Level 30
+	BaseStats
+	{
+		BaseHealth 366
+		BaseMana 702
+	}
+}
+{
+	Class 2
+	Level 31
+	BaseStats
+	{
+		BaseHealth 391
+		BaseMana 729
+	}
+}
+{
+	Class 2
+	Level 32
+	BaseStats
+	{
+		BaseHealth 407
+		BaseMana 756
+	}
+}
+{
+	Class 2
+	Level 33
+	BaseStats
+	{
+		BaseHealth 434
+		BaseMana 798
+	}
+}
+{
+	Class 2
+	Level 34
+	BaseStats
+	{
+		BaseHealth 462
+		BaseMana 825
+	}
+}
+{
+	Class 2
+	Level 35
+	BaseStats
+	{
+		BaseHealth 481
+		BaseMana 852
+	}
+}
+{
+	Class 2
+	Level 36
+	BaseStats
+	{
+		BaseHealth 511
+		BaseMana 879
+	}
+}
+{
+	Class 2
+	Level 37
+	BaseStats
+	{
+		BaseHealth 542
+		BaseMana 906
+	}
+}
+{
+	Class 2
+	Level 38
+	BaseStats
+	{
+		BaseHealth 564
+		BaseMana 933
+	}
+}
+{
+	Class 2
+	Level 39
+	BaseStats
+	{
+		BaseHealth 597
+		BaseMana 960
+	}
+}
+{
+	Class 2
+	Level 40
+	BaseStats
+	{
+		BaseHealth 621
+		BaseMana 987
+	}
+}
+{
+	Class 2
+	Level 41
+	BaseStats
+	{
+		BaseHealth 656
+		BaseMana 1014
+	}
+}
+{
+	Class 2
+	Level 42
+	BaseStats
+	{
+		BaseHealth 682
+		BaseMana 1041
+	}
+}
+{
+	Class 2
+	Level 43
+	BaseStats
+	{
+		BaseHealth 719
+		BaseMana 1068
+	}
+}
+{
+	Class 2
+	Level 44
+	BaseStats
+	{
+		BaseHealth 747
+		BaseMana 1110
+	}
+}
+{
+	Class 2
+	Level 45
+	BaseStats
+	{
+		BaseHealth 786
+		BaseMana 1137
+	}
+}
+{
+	Class 2
+	Level 46
+	BaseStats
+	{
+		BaseHealth 816
+		BaseMana 1164
+	}
+}
+{
+	Class 2
+	Level 47
+	BaseStats
+	{
+		BaseHealth 857
+		BaseMana 1176
+	}
+}
+{
+	Class 2
+	Level 48
+	BaseStats
+	{
+		BaseHealth 889
+		BaseMana 1203
+	}
+}
+{
+	Class 2
+	Level 49
+	BaseStats
+	{
+		BaseHealth 922
+		BaseMana 1230
+	}
+}
+{
+	Class 2
+	Level 50
+	BaseStats
+	{
+		BaseHealth 966
+		BaseMana 1257
+	}
+}
+{
+	Class 2
+	Level 51
+	BaseStats
+	{
+		BaseHealth 1001
+		BaseMana 1284
+	}
+}
+{
+	Class 2
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1037
+		BaseMana 1311
+	}
+}
+{
+	Class 2
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1084
+		BaseMana 1338
+	}
+}
+{
+	Class 2
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1122
+		BaseMana 1365
+	}
+}
+{
+	Class 2
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1161
+		BaseMana 1392
+	}
+}
+{
+	Class 2
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1201
+		BaseMana 1419
+	}
+}
+{
+	Class 2
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1252
+		BaseMana 1446
+	}
+}
+{
+	Class 2
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1294
+		BaseMana 1458
+	}
+}
+{
+	Class 2
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1337
+		BaseMana 1485
+	}
+}
+{
+	Class 2
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1381
+		BaseMana 1512
+	}
+}
+{
+	Class 3
+	Level 1
+	BaseStats
+	{
+		BaseHealth 26
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 2
+	BaseStats
+	{
+		BaseHealth 33
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 3
+	BaseStats
+	{
+		BaseHealth 40
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 4
+	BaseStats
+	{
+		BaseHealth 57
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 5
+	BaseStats
+	{
+		BaseHealth 64
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 6
+	BaseStats
+	{
+		BaseHealth 71
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 7
+	BaseStats
+	{
+		BaseHealth 78
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 8
+	BaseStats
+	{
+		BaseHealth 85
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 9
+	BaseStats
+	{
+		BaseHealth 92
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 10
+	BaseStats
+	{
+		BaseHealth 109
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 11
+	BaseStats
+	{
+		BaseHealth 116
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 12
+	BaseStats
+	{
+		BaseHealth 123
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 13
+	BaseStats
+	{
+		BaseHealth 130
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 14
+	BaseStats
+	{
+		BaseHealth 138
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 15
+	BaseStats
+	{
+		BaseHealth 147
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 16
+	BaseStats
+	{
+		BaseHealth 157
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 17
+	BaseStats
+	{
+		BaseHealth 168
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 18
+	BaseStats
+	{
+		BaseHealth 180
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 19
+	BaseStats
+	{
+		BaseHealth 193
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 20
+	BaseStats
+	{
+		BaseHealth 207
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 21
+	BaseStats
+	{
+		BaseHealth 222
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 22
+	BaseStats
+	{
+		BaseHealth 238
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 23
+	BaseStats
+	{
+		BaseHealth 255
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 24
+	BaseStats
+	{
+		BaseHealth 273
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 25
+	BaseStats
+	{
+		BaseHealth 292
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 26
+	BaseStats
+	{
+		BaseHealth 312
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 27
+	BaseStats
+	{
+		BaseHealth 333
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 28
+	BaseStats
+	{
+		BaseHealth 355
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 29
+	BaseStats
+	{
+		BaseHealth 378
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 30
+	BaseStats
+	{
+		BaseHealth 402
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 31
+	BaseStats
+	{
+		BaseHealth 417
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 32
+	BaseStats
+	{
+		BaseHealth 443
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 33
+	BaseStats
+	{
+		BaseHealth 470
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 34
+	BaseStats
+	{
+		BaseHealth 498
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 35
+	BaseStats
+	{
+		BaseHealth 527
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 36
+	BaseStats
+	{
+		BaseHealth 547
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 37
+	BaseStats
+	{
+		BaseHealth 578
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 38
+	BaseStats
+	{
+		BaseHealth 610
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 39
+	BaseStats
+	{
+		BaseHealth 643
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 40
+	BaseStats
+	{
+		BaseHealth 667
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 41
+	BaseStats
+	{
+		BaseHealth 702
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 42
+	BaseStats
+	{
+		BaseHealth 738
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 43
+	BaseStats
+	{
+		BaseHealth 775
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 44
+	BaseStats
+	{
+		BaseHealth 803
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 45
+	BaseStats
+	{
+		BaseHealth 842
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 46
+	BaseStats
+	{
+		BaseHealth 872
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 47
+	BaseStats
+	{
+		BaseHealth 913
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 48
+	BaseStats
+	{
+		BaseHealth 955
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 49
+	BaseStats
+	{
+		BaseHealth 988
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 50
+	BaseStats
+	{
+		BaseHealth 1032
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 51
+	BaseStats
+	{
+		BaseHealth 1067
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1113
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1150
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1198
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1237
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1287
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1328
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1370
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1423
+		BaseMana 0
+	}
+}
+{
+	Class 3
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1467
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 1
+	BaseStats
+	{
+		BaseHealth 25
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 2
+	BaseStats
+	{
+		BaseHealth 32
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 3
+	BaseStats
+	{
+		BaseHealth 49
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 4
+	BaseStats
+	{
+		BaseHealth 56
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 5
+	BaseStats
+	{
+		BaseHealth 63
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 6
+	BaseStats
+	{
+		BaseHealth 80
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 7
+	BaseStats
+	{
+		BaseHealth 87
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 8
+	BaseStats
+	{
+		BaseHealth 104
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 9
+	BaseStats
+	{
+		BaseHealth 111
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 10
+	BaseStats
+	{
+		BaseHealth 118
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 11
+	BaseStats
+	{
+		BaseHealth 125
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 12
+	BaseStats
+	{
+		BaseHealth 142
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 13
+	BaseStats
+	{
+		BaseHealth 149
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 14
+	BaseStats
+	{
+		BaseHealth 156
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 15
+	BaseStats
+	{
+		BaseHealth 173
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 16
+	BaseStats
+	{
+		BaseHealth 181
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 17
+	BaseStats
+	{
+		BaseHealth 190
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 18
+	BaseStats
+	{
+		BaseHealth 200
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 19
+	BaseStats
+	{
+		BaseHealth 221
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 20
+	BaseStats
+	{
+		BaseHealth 233
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 21
+	BaseStats
+	{
+		BaseHealth 246
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 22
+	BaseStats
+	{
+		BaseHealth 260
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 23
+	BaseStats
+	{
+		BaseHealth 275
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 24
+	BaseStats
+	{
+		BaseHealth 301
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 25
+	BaseStats
+	{
+		BaseHealth 318
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 26
+	BaseStats
+	{
+		BaseHealth 336
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 27
+	BaseStats
+	{
+		BaseHealth 355
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 28
+	BaseStats
+	{
+		BaseHealth 375
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 29
+	BaseStats
+	{
+		BaseHealth 396
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 30
+	BaseStats
+	{
+		BaseHealth 428
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 31
+	BaseStats
+	{
+		BaseHealth 451
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 32
+	BaseStats
+	{
+		BaseHealth 475
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 33
+	BaseStats
+	{
+		BaseHealth 500
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 34
+	BaseStats
+	{
+		BaseHealth 526
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 35
+	BaseStats
+	{
+		BaseHealth 553
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 36
+	BaseStats
+	{
+		BaseHealth 581
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 37
+	BaseStats
+	{
+		BaseHealth 610
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 38
+	BaseStats
+	{
+		BaseHealth 640
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 39
+	BaseStats
+	{
+		BaseHealth 671
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 40
+	BaseStats
+	{
+		BaseHealth 703
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 41
+	BaseStats
+	{
+		BaseHealth 736
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 42
+	BaseStats
+	{
+		BaseHealth 770
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 43
+	BaseStats
+	{
+		BaseHealth 805
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 44
+	BaseStats
+	{
+		BaseHealth 841
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 45
+	BaseStats
+	{
+		BaseHealth 878
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 46
+	BaseStats
+	{
+		BaseHealth 916
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 47
+	BaseStats
+	{
+		BaseHealth 955
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 48
+	BaseStats
+	{
+		BaseHealth 995
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 49
+	BaseStats
+	{
+		BaseHealth 1026
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 50
+	BaseStats
+	{
+		BaseHealth 1068
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 51
+	BaseStats
+	{
+		BaseHealth 1111
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1155
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1200
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1246
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1283
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1331
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1380
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1430
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1471
+		BaseMana 0
+	}
+}
+{
+	Class 4
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1523
+		BaseMana 0
+	}
+}
+{
+	Class 5
+	Level 1
+	BaseStats
+	{
+		BaseHealth 31
+		BaseMana 110
+	}
+}
+{
+	Class 5
+	Level 2
+	BaseStats
+	{
+		BaseHealth 37
+		BaseMana 165
+	}
+}
+{
+	Class 5
+	Level 3
+	BaseStats
+	{
+		BaseHealth 42
+		BaseMana 189
+	}
+}
+{
+	Class 5
+	Level 4
+	BaseStats
+	{
+		BaseHealth 57
+		BaseMana 200
+	}
+}
+{
+	Class 5
+	Level 5
+	BaseStats
+	{
+		BaseHealth 72
+		BaseMana 197
+	}
+}
+{
+	Class 5
+	Level 6
+	BaseStats
+	{
+		BaseHealth 77
+		BaseMana 210
+	}
+}
+{
+	Class 5
+	Level 7
+	BaseStats
+	{
+		BaseHealth 92
+		BaseMana 224
+	}
+}
+{
+	Class 5
+	Level 8
+	BaseStats
+	{
+		BaseHealth 107
+		BaseMana 239
+	}
+}
+{
+	Class 5
+	Level 9
+	BaseStats
+	{
+		BaseHealth 112
+		BaseMana 255
+	}
+}
+{
+	Class 5
+	Level 10
+	BaseStats
+	{
+		BaseHealth 127
+		BaseMana 272
+	}
+}
+{
+	Class 5
+	Level 11
+	BaseStats
+	{
+		BaseHealth 132
+		BaseMana 275
+	}
+}
+{
+	Class 5
+	Level 12
+	BaseStats
+	{
+		BaseHealth 147
+		BaseMana 294
+	}
+}
+{
+	Class 5
+	Level 13
+	BaseStats
+	{
+		BaseHealth 162
+		BaseMana 314
+	}
+}
+{
+	Class 5
+	Level 14
+	BaseStats
+	{
+		BaseHealth 167
+		BaseMana 320
+	}
+}
+{
+	Class 5
+	Level 15
+	BaseStats
+	{
+		BaseHealth 182
+		BaseMana 342
+	}
+}
+{
+	Class 5
+	Level 16
+	BaseStats
+	{
+		BaseHealth 187
+		BaseMana 365
+	}
+}
+{
+	Class 5
+	Level 17
+	BaseStats
+	{
+		BaseHealth 202
+		BaseMana 389
+	}
+}
+{
+	Class 5
+	Level 18
+	BaseStats
+	{
+		BaseHealth 217
+		BaseMana 399
+	}
+}
+{
+	Class 5
+	Level 19
+	BaseStats
+	{
+		BaseHealth 222
+		BaseMana 425
+	}
+}
+{
+	Class 5
+	Level 20
+	BaseStats
+	{
+		BaseHealth 237
+		BaseMana 437
+	}
+}
+{
+	Class 5
+	Level 21
+	BaseStats
+	{
+		BaseHealth 242
+		BaseMana 465
+	}
+}
+{
+	Class 5
+	Level 22
+	BaseStats
+	{
+		BaseHealth 258
+		BaseMana 494
+	}
+}
+{
+	Class 5
+	Level 23
+	BaseStats
+	{
+		BaseHealth 265
+		BaseMana 509
+	}
+}
+{
+	Class 5
+	Level 24
+	BaseStats
+	{
+		BaseHealth 283
+		BaseMana 540
+	}
+}
+{
+	Class 5
+	Level 25
+	BaseStats
+	{
+		BaseHealth 292
+		BaseMana 557
+	}
+}
+{
+	Class 5
+	Level 26
+	BaseStats
+	{
+		BaseHealth 312
+		BaseMana 590
+	}
+}
+{
+	Class 5
+	Level 27
+	BaseStats
+	{
+		BaseHealth 333
+		BaseMana 609
+	}
+}
+{
+	Class 5
+	Level 28
+	BaseStats
+	{
+		BaseHealth 345
+		BaseMana 644
+	}
+}
+{
+	Class 5
+	Level 29
+	BaseStats
+	{
+		BaseHealth 368
+		BaseMana 665
+	}
+}
+{
+	Class 5
+	Level 30
+	BaseStats
+	{
+		BaseHealth 382
+		BaseMana 687
+	}
+}
+{
+	Class 5
+	Level 31
+	BaseStats
+	{
+		BaseHealth 407
+		BaseMana 725
+	}
+}
+{
+	Class 5
+	Level 32
+	BaseStats
+	{
+		BaseHealth 423
+		BaseMana 749
+	}
+}
+{
+	Class 5
+	Level 33
+	BaseStats
+	{
+		BaseHealth 450
+		BaseMana 788
+	}
+}
+{
+	Class 5
+	Level 34
+	BaseStats
+	{
+		BaseHealth 468
+		BaseMana 812
+	}
+}
+{
+	Class 5
+	Level 35
+	BaseStats
+	{
+		BaseHealth 497
+		BaseMana 836
+	}
+}
+{
+	Class 5
+	Level 36
+	BaseStats
+	{
+		BaseHealth 517
+		BaseMana 860
+	}
+}
+{
+	Class 5
+	Level 37
+	BaseStats
+	{
+		BaseHealth 538
+		BaseMana 899
+	}
+}
+{
+	Class 5
+	Level 38
+	BaseStats
+	{
+		BaseHealth 570
+		BaseMana 923
+	}
+}
+{
+	Class 5
+	Level 39
+	BaseStats
+	{
+		BaseHealth 593
+		BaseMana 947
+	}
+}
+{
+	Class 5
+	Level 40
+	BaseStats
+	{
+		BaseHealth 627
+		BaseMana 971
+	}
+}
+{
+	Class 5
+	Level 41
+	BaseStats
+	{
+		BaseHealth 652
+		BaseMana 1010
+	}
+}
+{
+	Class 5
+	Level 42
+	BaseStats
+	{
+		BaseHealth 688
+		BaseMana 1034
+	}
+}
+{
+	Class 5
+	Level 43
+	BaseStats
+	{
+		BaseHealth 715
+		BaseMana 1058
+	}
+}
+{
+	Class 5
+	Level 44
+	BaseStats
+	{
+		BaseHealth 753
+		BaseMana 1082
+	}
+}
+{
+	Class 5
+	Level 45
+	BaseStats
+	{
+		BaseHealth 782
+		BaseMana 1106
+	}
+}
+{
+	Class 5
+	Level 46
+	BaseStats
+	{
+		BaseHealth 812
+		BaseMana 1130
+	}
+}
+{
+	Class 5
+	Level 47
+	BaseStats
+	{
+		BaseHealth 853
+		BaseMana 1154
+	}
+}
+{
+	Class 5
+	Level 48
+	BaseStats
+	{
+		BaseHealth 885
+		BaseMana 1178
+	}
+}
+{
+	Class 5
+	Level 49
+	BaseStats
+	{
+		BaseHealth 918
+		BaseMana 1202
+	}
+}
+{
+	Class 5
+	Level 50
+	BaseStats
+	{
+		BaseHealth 962
+		BaseMana 1226
+	}
+}
+{
+	Class 5
+	Level 51
+	BaseStats
+	{
+		BaseHealth 997
+		BaseMana 1250
+	}
+}
+{
+	Class 5
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1043
+		BaseMana 1274
+	}
+}
+{
+	Class 5
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1080
+		BaseMana 1298
+	}
+}
+{
+	Class 5
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1118
+		BaseMana 1322
+	}
+}
+{
+	Class 5
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1167
+		BaseMana 1331
+	}
+}
+{
+	Class 5
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1207
+		BaseMana 1355
+	}
+}
+{
+	Class 5
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1248
+		BaseMana 1379
+	}
+}
+{
+	Class 5
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1290
+		BaseMana 1403
+	}
+}
+{
+	Class 5
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1343
+		BaseMana 1412
+	}
+}
+{
+	Class 5
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1387
+		BaseMana 1436
+	}
+}
+{
+	Class 7
+	Level 1
+	BaseStats
+	{
+		BaseHealth 27
+		BaseMana 53
+	}
+}
+{
+	Class 7
+	Level 2
+	BaseStats
+	{
+		BaseHealth 34
+		BaseMana 61
+	}
+}
+{
+	Class 7
+	Level 3
+	BaseStats
+	{
+		BaseHealth 41
+		BaseMana 68
+	}
+}
+{
+	Class 7
+	Level 4
+	BaseStats
+	{
+		BaseHealth 48
+		BaseMana 91
+	}
+}
+{
+	Class 7
+	Level 5
+	BaseStats
+	{
+		BaseHealth 65
+		BaseMana 100
+	}
+}
+{
+	Class 7
+	Level 6
+	BaseStats
+	{
+		BaseHealth 72
+		BaseMana 110
+	}
+}
+{
+	Class 7
+	Level 7
+	BaseStats
+	{
+		BaseHealth 79
+		BaseMana 121
+	}
+}
+{
+	Class 7
+	Level 8
+	BaseStats
+	{
+		BaseHealth 86
+		BaseMana 133
+	}
+}
+{
+	Class 7
+	Level 9
+	BaseStats
+	{
+		BaseHealth 93
+		BaseMana 161
+	}
+}
+{
+	Class 7
+	Level 10
+	BaseStats
+	{
+		BaseHealth 100
+		BaseMana 175
+	}
+}
+{
+	Class 7
+	Level 11
+	BaseStats
+	{
+		BaseHealth 107
+		BaseMana 190
+	}
+}
+{
+	Class 7
+	Level 12
+	BaseStats
+	{
+		BaseHealth 114
+		BaseMana 206
+	}
+}
+{
+	Class 7
+	Level 13
+	BaseStats
+	{
+		BaseHealth 121
+		BaseMana 223
+	}
+}
+{
+	Class 7
+	Level 14
+	BaseStats
+	{
+		BaseHealth 128
+		BaseMana 241
+	}
+}
+{
+	Class 7
+	Level 15
+	BaseStats
+	{
+		BaseHealth 135
+		BaseMana 260
+	}
+}
+{
+	Class 7
+	Level 16
+	BaseStats
+	{
+		BaseHealth 142
+		BaseMana 280
+	}
+}
+{
+	Class 7
+	Level 17
+	BaseStats
+	{
+		BaseHealth 150
+		BaseMana 301
+	}
+}
+{
+	Class 7
+	Level 18
+	BaseStats
+	{
+		BaseHealth 159
+		BaseMana 323
+	}
+}
+{
+	Class 7
+	Level 19
+	BaseStats
+	{
+		BaseHealth 169
+		BaseMana 346
+	}
+}
+{
+	Class 7
+	Level 20
+	BaseStats
+	{
+		BaseHealth 180
+		BaseMana 370
+	}
+}
+{
+	Class 7
+	Level 21
+	BaseStats
+	{
+		BaseHealth 192
+		BaseMana 395
+	}
+}
+{
+	Class 7
+	Level 22
+	BaseStats
+	{
+		BaseHealth 205
+		BaseMana 456
+	}
+}
+{
+	Class 7
+	Level 23
+	BaseStats
+	{
+		BaseHealth 219
+		BaseMana 448
+	}
+}
+{
+	Class 7
+	Level 24
+	BaseStats
+	{
+		BaseHealth 234
+		BaseMana 476
+	}
+}
+{
+	Class 7
+	Level 25
+	BaseStats
+	{
+		BaseHealth 240
+		BaseMana 505
+	}
+}
+{
+	Class 7
+	Level 26
+	BaseStats
+	{
+		BaseHealth 257
+		BaseMana 579
+	}
+}
+{
+	Class 7
+	Level 27
+	BaseStats
+	{
+		BaseHealth 275
+		BaseMana 566
+	}
+}
+{
+	Class 7
+	Level 28
+	BaseStats
+	{
+		BaseHealth 294
+		BaseMana 598
+	}
+}
+{
+	Class 7
+	Level 29
+	BaseStats
+	{
+		BaseHealth 314
+		BaseMana 631
+	}
+}
+{
+	Class 7
+	Level 30
+	BaseStats
+	{
+		BaseHealth 335
+		BaseMana 718
+	}
+}
+{
+	Class 7
+	Level 31
+	BaseStats
+	{
+		BaseHealth 347
+		BaseMana 699
+	}
+}
+{
+	Class 7
+	Level 32
+	BaseStats
+	{
+		BaseHealth 370
+		BaseMana 733
+	}
+}
+{
+	Class 7
+	Level 33
+	BaseStats
+	{
+		BaseHealth 394
+		BaseMana 767
+	}
+}
+{
+	Class 7
+	Level 34
+	BaseStats
+	{
+		BaseHealth 419
+		BaseMana 786
+	}
+}
+{
+	Class 7
+	Level 35
+	BaseStats
+	{
+		BaseHealth 435
+		BaseMana 820
+	}
+}
+{
+	Class 7
+	Level 36
+	BaseStats
+	{
+		BaseHealth 462
+		BaseMana 854
+	}
+}
+{
+	Class 7
+	Level 37
+	BaseStats
+	{
+		BaseHealth 490
+		BaseMana 888
+	}
+}
+{
+	Class 7
+	Level 38
+	BaseStats
+	{
+		BaseHealth 509
+		BaseMana 922
+	}
+}
+{
+	Class 7
+	Level 39
+	BaseStats
+	{
+		BaseHealth 539
+		BaseMana 941
+	}
+}
+{
+	Class 7
+	Level 40
+	BaseStats
+	{
+		BaseHealth 570
+		BaseMana 975
+	}
+}
+{
+	Class 7
+	Level 41
+	BaseStats
+	{
+		BaseHealth 592
+		BaseMana 1009
+	}
+}
+{
+	Class 7
+	Level 42
+	BaseStats
+	{
+		BaseHealth 625
+		BaseMana 1028
+	}
+}
+{
+	Class 7
+	Level 43
+	BaseStats
+	{
+		BaseHealth 649
+		BaseMana 1062
+	}
+}
+{
+	Class 7
+	Level 44
+	BaseStats
+	{
+		BaseHealth 684
+		BaseMana 1096
+	}
+}
+{
+	Class 7
+	Level 45
+	BaseStats
+	{
+		BaseHealth 710
+		BaseMana 1115
+	}
+}
+{
+	Class 7
+	Level 46
+	BaseStats
+	{
+		BaseHealth 747
+		BaseMana 1149
+	}
+}
+{
+	Class 7
+	Level 47
+	BaseStats
+	{
+		BaseHealth 775
+		BaseMana 1183
+	}
+}
+{
+	Class 7
+	Level 48
+	BaseStats
+	{
+		BaseHealth 814
+		BaseMana 1202
+	}
+}
+{
+	Class 7
+	Level 49
+	BaseStats
+	{
+		BaseHealth 844
+		BaseMana 1236
+	}
+}
+{
+	Class 7
+	Level 50
+	BaseStats
+	{
+		BaseHealth 885
+		BaseMana 1255
+	}
+}
+{
+	Class 7
+	Level 51
+	BaseStats
+	{
+		BaseHealth 917
+		BaseMana 1289
+	}
+}
+{
+	Class 7
+	Level 52
+	BaseStats
+	{
+		BaseHealth 960
+		BaseMana 1313
+	}
+}
+{
+	Class 7
+	Level 53
+	BaseStats
+	{
+		BaseHealth 994
+		BaseMana 1342
+	}
+}
+{
+	Class 7
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1029
+		BaseMana 1376
+	}
+}
+{
+	Class 7
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1075
+		BaseMana 1395
+	}
+}
+{
+	Class 7
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1112
+		BaseMana 1414
+	}
+}
+{
+	Class 7
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1150
+		BaseMana 1448
+	}
+}
+{
+	Class 7
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1199
+		BaseMana 1467
+	}
+}
+{
+	Class 7
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1239
+		BaseMana 1501
+	}
+}
+{
+	Class 7
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1280
+		BaseMana 1520
+	}
+}
+{
+	Class 8
+	Level 1
+	BaseStats
+	{
+		BaseHealth 31
+		BaseMana 100
+	}
+}
+{
+	Class 8
+	Level 2
+	BaseStats
+	{
+		BaseHealth 37
+		BaseMana 170
+	}
+}
+{
+	Class 8
+	Level 3
+	BaseStats
+	{
+		BaseHealth 42
+		BaseMana 181
+	}
+}
+{
+	Class 8
+	Level 4
+	BaseStats
+	{
+		BaseHealth 57
+		BaseMana 178
+	}
+}
+{
+	Class 8
+	Level 5
+	BaseStats
+	{
+		BaseHealth 72
+		BaseMana 191
+	}
+}
+{
+	Class 8
+	Level 6
+	BaseStats
+	{
+		BaseHealth 87
+		BaseMana 205
+	}
+}
+{
+	Class 8
+	Level 7
+	BaseStats
+	{
+		BaseHealth 92
+		BaseMana 220
+	}
+}
+{
+	Class 8
+	Level 8
+	BaseStats
+	{
+		BaseHealth 107
+		BaseMana 221
+	}
+}
+{
+	Class 8
+	Level 9
+	BaseStats
+	{
+		BaseHealth 122
+		BaseMana 238
+	}
+}
+{
+	Class 8
+	Level 10
+	BaseStats
+	{
+		BaseHealth 127
+		BaseMana 256
+	}
+}
+{
+	Class 8
+	Level 11
+	BaseStats
+	{
+		BaseHealth 142
+		BaseMana 275
+	}
+}
+{
+	Class 8
+	Level 12
+	BaseStats
+	{
+		BaseHealth 157
+		BaseMana 280
+	}
+}
+{
+	Class 8
+	Level 13
+	BaseStats
+	{
+		BaseHealth 162
+		BaseMana 301
+	}
+}
+{
+	Class 8
+	Level 14
+	BaseStats
+	{
+		BaseHealth 177
+		BaseMana 323
+	}
+}
+{
+	Class 8
+	Level 15
+	BaseStats
+	{
+		BaseHealth 192
+		BaseMana 331
+	}
+}
+{
+	Class 8
+	Level 16
+	BaseStats
+	{
+		BaseHealth 197
+		BaseMana 355
+	}
+}
+{
+	Class 8
+	Level 17
+	BaseStats
+	{
+		BaseHealth 212
+		BaseMana 365
+	}
+}
+{
+	Class 8
+	Level 18
+	BaseStats
+	{
+		BaseHealth 227
+		BaseMana 391
+	}
+}
+{
+	Class 8
+	Level 19
+	BaseStats
+	{
+		BaseHealth 232
+		BaseMana 403
+	}
+}
+{
+	Class 8
+	Level 20
+	BaseStats
+	{
+		BaseHealth 247
+		BaseMana 431
+	}
+}
+{
+	Class 8
+	Level 21
+	BaseStats
+	{
+		BaseHealth 262
+		BaseMana 445
+	}
+}
+{
+	Class 8
+	Level 22
+	BaseStats
+	{
+		BaseHealth 267
+		BaseMana 475
+	}
+}
+{
+	Class 8
+	Level 23
+	BaseStats
+	{
+		BaseHealth 282
+		BaseMana 491
+	}
+}
+{
+	Class 8
+	Level 24
+	BaseStats
+	{
+		BaseHealth 288
+		BaseMana 523
+	}
+}
+{
+	Class 8
+	Level 25
+	BaseStats
+	{
+		BaseHealth 305
+		BaseMana 541
+	}
+}
+{
+	Class 8
+	Level 26
+	BaseStats
+	{
+		BaseHealth 323
+		BaseMana 575
+	}
+}
+{
+	Class 8
+	Level 27
+	BaseStats
+	{
+		BaseHealth 332
+		BaseMana 595
+	}
+}
+{
+	Class 8
+	Level 28
+	BaseStats
+	{
+		BaseHealth 352
+		BaseMana 616
+	}
+}
+{
+	Class 8
+	Level 29
+	BaseStats
+	{
+		BaseHealth 363
+		BaseMana 652
+	}
+}
+{
+	Class 8
+	Level 30
+	BaseStats
+	{
+		BaseHealth 385
+		BaseMana 673
+	}
+}
+{
+	Class 8
+	Level 31
+	BaseStats
+	{
+		BaseHealth 408
+		BaseMana 694
+	}
+}
+{
+	Class 8
+	Level 32
+	BaseStats
+	{
+		BaseHealth 422
+		BaseMana 730
+	}
+}
+{
+	Class 8
+	Level 33
+	BaseStats
+	{
+		BaseHealth 447
+		BaseMana 751
+	}
+}
+{
+	Class 8
+	Level 34
+	BaseStats
+	{
+		BaseHealth 463
+		BaseMana 772
+	}
+}
+{
+	Class 8
+	Level 35
+	BaseStats
+	{
+		BaseHealth 490
+		BaseMana 793
+	}
+}
+{
+	Class 8
+	Level 36
+	BaseStats
+	{
+		BaseHealth 508
+		BaseMana 814
+	}
+}
+{
+	Class 8
+	Level 37
+	BaseStats
+	{
+		BaseHealth 537
+		BaseMana 850
+	}
+}
+{
+	Class 8
+	Level 38
+	BaseStats
+	{
+		BaseHealth 567
+		BaseMana 871
+	}
+}
+{
+	Class 8
+	Level 39
+	BaseStats
+	{
+		BaseHealth 588
+		BaseMana 892
+	}
+}
+{
+	Class 8
+	Level 40
+	BaseStats
+	{
+		BaseHealth 620
+		BaseMana 913
+	}
+}
+{
+	Class 8
+	Level 41
+	BaseStats
+	{
+		BaseHealth 643
+		BaseMana 934
+	}
+}
+{
+	Class 8
+	Level 42
+	BaseStats
+	{
+		BaseHealth 677
+		BaseMana 955
+	}
+}
+{
+	Class 8
+	Level 43
+	BaseStats
+	{
+		BaseHealth 702
+		BaseMana 976
+	}
+}
+{
+	Class 8
+	Level 44
+	BaseStats
+	{
+		BaseHealth 738
+		BaseMana 997
+	}
+}
+{
+	Class 8
+	Level 45
+	BaseStats
+	{
+		BaseHealth 765
+		BaseMana 1018
+	}
+}
+{
+	Class 8
+	Level 46
+	BaseStats
+	{
+		BaseHealth 803
+		BaseMana 1039
+	}
+}
+{
+	Class 8
+	Level 47
+	BaseStats
+	{
+		BaseHealth 832
+		BaseMana 1060
+	}
+}
+{
+	Class 8
+	Level 48
+	BaseStats
+	{
+		BaseHealth 872
+		BaseMana 1081
+	}
+}
+{
+	Class 8
+	Level 49
+	BaseStats
+	{
+		BaseHealth 903
+		BaseMana 1102
+	}
+}
+{
+	Class 8
+	Level 50
+	BaseStats
+	{
+		BaseHealth 945
+		BaseMana 1108
+	}
+}
+{
+	Class 8
+	Level 51
+	BaseStats
+	{
+		BaseHealth 978
+		BaseMana 1129
+	}
+}
+{
+	Class 8
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1022
+		BaseMana 1150
+	}
+}
+{
+	Class 8
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1057
+		BaseMana 1171
+	}
+}
+{
+	Class 8
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1093
+		BaseMana 1177
+	}
+}
+{
+	Class 8
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1140
+		BaseMana 1198
+	}
+}
+{
+	Class 8
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1178
+		BaseMana 1219
+	}
+}
+{
+	Class 8
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1227
+		BaseMana 1225
+	}
+}
+{
+	Class 8
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1267
+		BaseMana 1246
+	}
+}
+{
+	Class 8
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1318
+		BaseMana 1252
+	}
+}
+{
+	Class 8
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1360
+		BaseMana 1273
+	}
+}
+{
+	Class 9
+	Level 1
+	BaseStats
+	{
+		BaseHealth 23
+		BaseMana 59
+	}
+}
+{
+	Class 9
+	Level 2
+	BaseStats
+	{
+		BaseHealth 28
+		BaseMana 98
+	}
+}
+{
+	Class 9
+	Level 3
+	BaseStats
+	{
+		BaseHealth 43
+		BaseMana 107
+	}
+}
+{
+	Class 9
+	Level 4
+	BaseStats
+	{
+		BaseHealth 48
+		BaseMana 117
+	}
+}
+{
+	Class 9
+	Level 5
+	BaseStats
+	{
+		BaseHealth 63
+		BaseMana 128
+	}
+}
+{
+	Class 9
+	Level 6
+	BaseStats
+	{
+		BaseHealth 68
+		BaseMana 140
+	}
+}
+{
+	Class 9
+	Level 7
+	BaseStats
+	{
+		BaseHealth 83
+		BaseMana 153
+	}
+}
+{
+	Class 9
+	Level 8
+	BaseStats
+	{
+		BaseHealth 88
+		BaseMana 167
+	}
+}
+{
+	Class 9
+	Level 9
+	BaseStats
+	{
+		BaseHealth 103
+		BaseMana 182
+	}
+}
+{
+	Class 9
+	Level 10
+	BaseStats
+	{
+		BaseHealth 108
+		BaseMana 198
+	}
+}
+{
+	Class 9
+	Level 11
+	BaseStats
+	{
+		BaseHealth 123
+		BaseMana 200
+	}
+}
+{
+	Class 9
+	Level 12
+	BaseStats
+	{
+		BaseHealth 128
+		BaseMana 218
+	}
+}
+{
+	Class 9
+	Level 13
+	BaseStats
+	{
+		BaseHealth 143
+		BaseMana 237
+	}
+}
+{
+	Class 9
+	Level 14
+	BaseStats
+	{
+		BaseHealth 148
+		BaseMana 257
+	}
+}
+{
+	Class 9
+	Level 15
+	BaseStats
+	{
+		BaseHealth 153
+		BaseMana 278
+	}
+}
+{
+	Class 9
+	Level 16
+	BaseStats
+	{
+		BaseHealth 168
+		BaseMana 300
+	}
+}
+{
+	Class 9
+	Level 17
+	BaseStats
+	{
+		BaseHealth 173
+		BaseMana 308
+	}
+}
+{
+	Class 9
+	Level 18
+	BaseStats
+	{
+		BaseHealth 189
+		BaseMana 332
+	}
+}
+{
+	Class 9
+	Level 19
+	BaseStats
+	{
+		BaseHealth 196
+		BaseMana 357
+	}
+}
+{
+	Class 9
+	Level 20
+	BaseStats
+	{
+		BaseHealth 204
+		BaseMana 383
+	}
+}
+{
+	Class 9
+	Level 21
+	BaseStats
+	{
+		BaseHealth 223
+		BaseMana 395
+	}
+}
+{
+	Class 9
+	Level 22
+	BaseStats
+	{
+		BaseHealth 233
+		BaseMana 423
+	}
+}
+{
+	Class 9
+	Level 23
+	BaseStats
+	{
+		BaseHealth 244
+		BaseMana 452
+	}
+}
+{
+	Class 9
+	Level 24
+	BaseStats
+	{
+		BaseHealth 266
+		BaseMana 467
+	}
+}
+{
+	Class 9
+	Level 25
+	BaseStats
+	{
+		BaseHealth 279
+		BaseMana 498
+	}
+}
+{
+	Class 9
+	Level 26
+	BaseStats
+	{
+		BaseHealth 293
+		BaseMana 530
+	}
+}
+{
+	Class 9
+	Level 27
+	BaseStats
+	{
+		BaseHealth 318
+		BaseMana 548
+	}
+}
+{
+	Class 9
+	Level 28
+	BaseStats
+	{
+		BaseHealth 334
+		BaseMana 582
+	}
+}
+{
+	Class 9
+	Level 29
+	BaseStats
+	{
+		BaseHealth 351
+		BaseMana 602
+	}
+}
+{
+	Class 9
+	Level 30
+	BaseStats
+	{
+		BaseHealth 379
+		BaseMana 638
+	}
+}
+{
+	Class 9
+	Level 31
+	BaseStats
+	{
+		BaseHealth 398
+		BaseMana 674
+	}
+}
+{
+	Class 9
+	Level 32
+	BaseStats
+	{
+		BaseHealth 418
+		BaseMana 695
+	}
+}
+{
+	Class 9
+	Level 33
+	BaseStats
+	{
+		BaseHealth 439
+		BaseMana 731
+	}
+}
+{
+	Class 9
+	Level 34
+	BaseStats
+	{
+		BaseHealth 471
+		BaseMana 752
+	}
+}
+{
+	Class 9
+	Level 35
+	BaseStats
+	{
+		BaseHealth 494
+		BaseMana 788
+	}
+}
+{
+	Class 9
+	Level 36
+	BaseStats
+	{
+		BaseHealth 518
+		BaseMana 809
+	}
+}
+{
+	Class 9
+	Level 37
+	BaseStats
+	{
+		BaseHealth 543
+		BaseMana 830
+	}
+}
+{
+	Class 9
+	Level 38
+	BaseStats
+	{
+		BaseHealth 569
+		BaseMana 866
+	}
+}
+{
+	Class 9
+	Level 39
+	BaseStats
+	{
+		BaseHealth 606
+		BaseMana 887
+	}
+}
+{
+	Class 9
+	Level 40
+	BaseStats
+	{
+		BaseHealth 634
+		BaseMana 923
+	}
+}
+{
+	Class 9
+	Level 41
+	BaseStats
+	{
+		BaseHealth 663
+		BaseMana 944
+	}
+}
+{
+	Class 9
+	Level 42
+	BaseStats
+	{
+		BaseHealth 693
+		BaseMana 965
+	}
+}
+{
+	Class 9
+	Level 43
+	BaseStats
+	{
+		BaseHealth 724
+		BaseMana 1001
+	}
+}
+{
+	Class 9
+	Level 44
+	BaseStats
+	{
+		BaseHealth 756
+		BaseMana 1022
+	}
+}
+{
+	Class 9
+	Level 45
+	BaseStats
+	{
+		BaseHealth 799
+		BaseMana 1043
+	}
+}
+{
+	Class 9
+	Level 46
+	BaseStats
+	{
+		BaseHealth 823
+		BaseMana 1064
+	}
+}
+{
+	Class 9
+	Level 47
+	BaseStats
+	{
+		BaseHealth 868
+		BaseMana 1100
+	}
+}
+{
+	Class 9
+	Level 48
+	BaseStats
+	{
+		BaseHealth 904
+		BaseMana 1121
+	}
+}
+{
+	Class 9
+	Level 49
+	BaseStats
+	{
+		BaseHealth 941
+		BaseMana 1142
+	}
+}
+{
+	Class 9
+	Level 50
+	BaseStats
+	{
+		BaseHealth 979
+		BaseMana 1163
+	}
+}
+{
+	Class 9
+	Level 51
+	BaseStats
+	{
+		BaseHealth 1018
+		BaseMana 1184
+	}
+}
+{
+	Class 9
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1058
+		BaseMana 1205
+	}
+}
+{
+	Class 9
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1089
+		BaseMana 1226
+	}
+}
+{
+	Class 9
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1131
+		BaseMana 1247
+	}
+}
+{
+	Class 9
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1184
+		BaseMana 1268
+	}
+}
+{
+	Class 9
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1228
+		BaseMana 1289
+	}
+}
+{
+	Class 9
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1273
+		BaseMana 1310
+	}
+}
+{
+	Class 9
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1319
+		BaseMana 1331
+	}
+}
+{
+	Class 9
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1366
+		BaseMana 1352
+	}
+}
+{
+	Class 9
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1414
+		BaseMana 1373
+	}
+}
+{
+	Class 11
+	Level 1
+	BaseStats
+	{
+		BaseHealth 33
+		BaseMana 17
+	}
+}
+{
+	Class 11
+	Level 2
+	BaseStats
+	{
+		BaseHealth 41
+		BaseMana 57
+	}
+}
+{
+	Class 11
+	Level 3
+	BaseStats
+	{
+		BaseHealth 58
+		BaseMana 65
+	}
+}
+{
+	Class 11
+	Level 4
+	BaseStats
+	{
+		BaseHealth 65
+		BaseMana 74
+	}
+}
+{
+	Class 11
+	Level 5
+	BaseStats
+	{
+		BaseHealth 82
+		BaseMana 84
+	}
+}
+{
+	Class 11
+	Level 6
+	BaseStats
+	{
+		BaseHealth 89
+		BaseMana 95
+	}
+}
+{
+	Class 11
+	Level 7
+	BaseStats
+	{
+		BaseHealth 96
+		BaseMana 107
+	}
+}
+{
+	Class 11
+	Level 8
+	BaseStats
+	{
+		BaseHealth 113
+		BaseMana 120
+	}
+}
+{
+	Class 11
+	Level 9
+	BaseStats
+	{
+		BaseHealth 120
+		BaseMana 134
+	}
+}
+{
+	Class 11
+	Level 10
+	BaseStats
+	{
+		BaseHealth 137
+		BaseMana 149
+	}
+}
+{
+	Class 11
+	Level 11
+	BaseStats
+	{
+		BaseHealth 144
+		BaseMana 165
+	}
+}
+{
+	Class 11
+	Level 12
+	BaseStats
+	{
+		BaseHealth 151
+		BaseMana 182
+	}
+}
+{
+	Class 11
+	Level 13
+	BaseStats
+	{
+		BaseHealth 168
+		BaseMana 200
+	}
+}
+{
+	Class 11
+	Level 14
+	BaseStats
+	{
+		BaseHealth 175
+		BaseMana 219
+	}
+}
+{
+	Class 11
+	Level 15
+	BaseStats
+	{
+		BaseHealth 182
+		BaseMana 239
+	}
+}
+{
+	Class 11
+	Level 16
+	BaseStats
+	{
+		BaseHealth 199
+		BaseMana 260
+	}
+}
+{
+	Class 11
+	Level 17
+	BaseStats
+	{
+		BaseHealth 206
+		BaseMana 282
+	}
+}
+{
+	Class 11
+	Level 18
+	BaseStats
+	{
+		BaseHealth 214
+		BaseMana 305
+	}
+}
+{
+	Class 11
+	Level 19
+	BaseStats
+	{
+		BaseHealth 233
+		BaseMana 329
+	}
+}
+{
+	Class 11
+	Level 20
+	BaseStats
+	{
+		BaseHealth 243
+		BaseMana 354
+	}
+}
+{
+	Class 11
+	Level 21
+	BaseStats
+	{
+		BaseHealth 254
+		BaseMana 380
+	}
+}
+{
+	Class 11
+	Level 22
+	BaseStats
+	{
+		BaseHealth 266
+		BaseMana 392
+	}
+}
+{
+	Class 11
+	Level 23
+	BaseStats
+	{
+		BaseHealth 289
+		BaseMana 420
+	}
+}
+{
+	Class 11
+	Level 24
+	BaseStats
+	{
+		BaseHealth 303
+		BaseMana 449
+	}
+}
+{
+	Class 11
+	Level 25
+	BaseStats
+	{
+		BaseHealth 318
+		BaseMana 479
+	}
+}
+{
+	Class 11
+	Level 26
+	BaseStats
+	{
+		BaseHealth 334
+		BaseMana 509
+	}
+}
+{
+	Class 11
+	Level 27
+	BaseStats
+	{
+		BaseHealth 361
+		BaseMana 524
+	}
+}
+{
+	Class 11
+	Level 28
+	BaseStats
+	{
+		BaseHealth 379
+		BaseMana 554
+	}
+}
+{
+	Class 11
+	Level 29
+	BaseStats
+	{
+		BaseHealth 398
+		BaseMana 584
+	}
+}
+{
+	Class 11
+	Level 30
+	BaseStats
+	{
+		BaseHealth 418
+		BaseMana 614
+	}
+}
+{
+	Class 11
+	Level 31
+	BaseStats
+	{
+		BaseHealth 439
+		BaseMana 629
+	}
+}
+{
+	Class 11
+	Level 32
+	BaseStats
+	{
+		BaseHealth 461
+		BaseMana 659
+	}
+}
+{
+	Class 11
+	Level 33
+	BaseStats
+	{
+		BaseHealth 494
+		BaseMana 689
+	}
+}
+{
+	Class 11
+	Level 34
+	BaseStats
+	{
+		BaseHealth 518
+		BaseMana 704
+	}
+}
+{
+	Class 11
+	Level 35
+	BaseStats
+	{
+		BaseHealth 543
+		BaseMana 734
+	}
+}
+{
+	Class 11
+	Level 36
+	BaseStats
+	{
+		BaseHealth 569
+		BaseMana 749
+	}
+}
+{
+	Class 11
+	Level 37
+	BaseStats
+	{
+		BaseHealth 596
+		BaseMana 779
+	}
+}
+{
+	Class 11
+	Level 38
+	BaseStats
+	{
+		BaseHealth 624
+		BaseMana 809
+	}
+}
+{
+	Class 11
+	Level 39
+	BaseStats
+	{
+		BaseHealth 653
+		BaseMana 824
+	}
+}
+{
+	Class 11
+	Level 40
+	BaseStats
+	{
+		BaseHealth 683
+		BaseMana 854
+	}
+}
+{
+	Class 11
+	Level 41
+	BaseStats
+	{
+		BaseHealth 714
+		BaseMana 869
+	}
+}
+{
+	Class 11
+	Level 42
+	BaseStats
+	{
+		BaseHealth 746
+		BaseMana 899
+	}
+}
+{
+	Class 11
+	Level 43
+	BaseStats
+	{
+		BaseHealth 779
+		BaseMana 914
+	}
+}
+{
+	Class 11
+	Level 44
+	BaseStats
+	{
+		BaseHealth 823
+		BaseMana 944
+	}
+}
+{
+	Class 11
+	Level 45
+	BaseStats
+	{
+		BaseHealth 858
+		BaseMana 959
+	}
+}
+{
+	Class 11
+	Level 46
+	BaseStats
+	{
+		BaseHealth 894
+		BaseMana 989
+	}
+}
+{
+	Class 11
+	Level 47
+	BaseStats
+	{
+		BaseHealth 921
+		BaseMana 1004
+	}
+}
+{
+	Class 11
+	Level 48
+	BaseStats
+	{
+		BaseHealth 959
+		BaseMana 1019
+	}
+}
+{
+	Class 11
+	Level 49
+	BaseStats
+	{
+		BaseHealth 998
+		BaseMana 1049
+	}
+}
+{
+	Class 11
+	Level 50
+	BaseStats
+	{
+		BaseHealth 1038
+		BaseMana 1064
+	}
+}
+{
+	Class 11
+	Level 51
+	BaseStats
+	{
+		BaseHealth 1079
+		BaseMana 1079
+	}
+}
+{
+	Class 11
+	Level 52
+	BaseStats
+	{
+		BaseHealth 1121
+		BaseMana 1109
+	}
+}
+{
+	Class 11
+	Level 53
+	BaseStats
+	{
+		BaseHealth 1164
+		BaseMana 1124
+	}
+}
+{
+	Class 11
+	Level 54
+	BaseStats
+	{
+		BaseHealth 1208
+		BaseMana 1139
+	}
+}
+{
+	Class 11
+	Level 55
+	BaseStats
+	{
+		BaseHealth 1253
+		BaseMana 1154
+	}
+}
+{
+	Class 11
+	Level 56
+	BaseStats
+	{
+		BaseHealth 1299
+		BaseMana 1169
+	}
+}
+{
+	Class 11
+	Level 57
+	BaseStats
+	{
+		BaseHealth 1346
+		BaseMana 1199
+	}
+}
+{
+	Class 11
+	Level 58
+	BaseStats
+	{
+		BaseHealth 1384
+		BaseMana 1214
+	}
+}
+{
+	Class 11
+	Level 59
+	BaseStats
+	{
+		BaseHealth 1433
+		BaseMana 1229
+	}
+}
+{
+	Class 11
+	Level 60
+	BaseStats
+	{
+		BaseHealth 1483
+		BaseMana 1244
+	}
+}
