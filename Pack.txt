@@ -1,8 +1,8 @@
 {
-	Name "Gophercraft Alpha Pack"
-	Author "Content provided in part by alpha-core project https://github.com/The-Alpha-Project/alpha-core/"
-	Description "Pack for Alpha servers"
-	Version 0.5.1
+  Name "Gophercraft Alpha Pack"
+  Author "Content provided in part by alpha-core project https://github.com/The-Alpha-Project/alpha-core/"
+  Description "Pack for Alpha servers"
+  Version 0.5.1
 
   OverrideTables
   {
